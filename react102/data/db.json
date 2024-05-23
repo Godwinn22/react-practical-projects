@@ -1,0 +1,70 @@
+{
+"book_items": [
+	{
+		"id": 1,
+	  "title": "Nigeria and Inflation.",
+	  "content": "A novel set in the Nigerian economy during the reign of Tinubu AKA agbado, focusing on the trial of a country called the african giant.",
+	  "author": "Bola Ahmed Tinubu (BAT)"
+	},
+	{
+		"id": 2,
+	  "title": "To Kill a Mockingbird",
+	  "content": "A novel set in the American South during the 1930s, focusing on the trial of a black man accused of raping a white woman.",
+	  "author": "Harper Lee"
+	},
+	{
+		"id": 3,
+	  "title": "1984",
+	  "content": "A dystopian novel set in a totalitarian regime, where the government controls every aspect of citizens' lives.",
+	  "author": "George Orwell"
+	},
+	{
+		"id": 4,
+	  "title": "The Great Gatsby",
+	  "content": "A tale of the American Dream set in the 1920s, exploring themes of wealth, love, and the pursuit of happiness.",
+	  "author": "F. Scott Fitzgerald"
+	},
+	{
+		"id": 5,
+	  "title": "The Catcher in the Rye",
+	  "content": "A coming-of-age novel narrated by a teenager struggling with the phoniness of the adult world.",
+	  "author": "J.D. Salinger"
+	},
+	{
+		"id": 6,
+	  "title": "Pride and Prejudice",
+	  "content": "A classic romance novel set in rural England, revolving around the Bennet family and their relationships.",
+	  "author": "Jane Austen"
+	},
+	{
+		"id": 7,
+	  "title": "The Hobbit",
+	  "content": "An adventurous tale of Bilbo Baggins, a hobbit who embarks on a quest to reclaim treasure guarded by a dragon.",
+	  "author": "J.R.R. Tolkien"
+	},
+	{
+		"id": 8,
+	  "title": "Harry Potter and the Philosopher's Stone",
+	  "content": "The first book in the Harry Potter series, following the journey of a young wizard, Harry Potter, at Hogwarts School of Witchcraft and Wizardry.",
+	  "author": "J.K. Rowling"
+	},
+	{
+		"id": 9,
+	  "title": "The Lord of the Rings: The Fellowship of the Ring",
+	  "content": "The first part of the epic fantasy series, following the journey of Frodo Baggins to destroy the One Ring and defeat the Dark Lord, Sauron.",
+	  "author": "J.R.R. Tolkien"
+	},
+	{
+		"id": 10,
+	  "title": "Brave New World",
+	  "content": "A dystopian novel set in a futuristic society where technology and conditioning control every aspect of life.",
+	  "author": "Aldous Huxley"
+	},
+	{
+		"id": 11,
+	  "title": "Moby-Dick",
+	  "content": "An epic tale of Captain Ahab's obsessive quest for revenge on the elusive white whale, Moby Dick.",
+	  "author": "Herman Melville"
+	}
+  ]
+}
